@@ -30,7 +30,7 @@ void conectarWiFi() {
 
 void responderMensaje(TBMessage &msg) {
   Serial << "\n \n" << "Nombre de usuario: " << msg.sender.firstName << "  "  << " Apellido: " << msg.sender.lastName <<"\n" <<"Usuario: " << msg.sender.username <<
-  " - " <<"ID: " <<msg.sender.id << msg.text << "\n";
+  " - " <<"ID: " <<msg.sender.id << "\n\nMensaje:  " <<msg.text << "\n";
   String txt = msg.text;
   txt.toLowerCase();
 
