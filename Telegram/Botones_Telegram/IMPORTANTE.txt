@@ -1,0 +1,8 @@
+Instalar librerías 
+
+Link de botfather: https://t.me/botfather
+  🔗 Librería ArduinoJson: https://github.com/bblanchon/ArduinoJson (versión 1.19.4)
+  🔗 Librería CTBot: https://github.com/shurillu/CTBot
+  
+
+este nos permite hacer la conexión con el bot de telegram y el esp 32 también nos muestra un menu de opciones donde el usuario que envía mensajes 
