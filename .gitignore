@@ -1,0 +1,9 @@
+# PlatformIO
+.pio/
+.vscode/
+*.elf
+*.bin
+*.map
+*.d
+*.a
+*.
