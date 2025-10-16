@@ -7,3 +7,22 @@
 *.d
 *.a
 *.
+
+# Arduino IDE archivos temporales
+*.ino.*
+*.bak
+*.tmp
+*.swp
+
+# Windows
+Thumbs.db
+
+# Archivos de compilación ocultos
+*.d
+*.elf
+*.hex
+*.bin
+
+# Otros posibles ocultos
+*.log
+*.log.*
